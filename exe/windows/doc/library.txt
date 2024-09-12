@@ -1,0 +1,30 @@
+
+Library: CMake
+Version: 3.30.1(W), 3.30.1(L)
+License: BSD
+Website: https://cmake.org
+
+Library: Boost
+Version: 1.85.0(W), 1.85.0(L)
+License: Boost
+Website: http://www.boost.org
+
+Library: {fmt}
+Version: 10.1.1(W), 10.1.1(L)
+License: MIT
+Website: https://github.com/fmtlib/fmt
+
+Library: zlib
+Version: 1.2.11
+License: ZLIB
+Website: http://www.zlib.net/
+
+Library: FrameX
+Version: 1.0.4(W), 1.0.4(L)
+License: BSD & LGPL
+Website: https://github.com/universal-exchange/FrameX-Cpp
+
+Library: CyberX
+Version: 0.3.0(W), 0.3.0(L)
+License: BSD & LGPL
+Website: https://github.com/universal-exchange/CyberX
