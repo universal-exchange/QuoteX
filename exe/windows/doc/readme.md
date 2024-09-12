@@ -1,6 +1,8 @@
 # QuoteX
 V0.1.0-Beta Build 20240910
 
+最新版本：[C++](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.0)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.0)
+
 ### 项目概述
 行情服务特性：
 + 基于 CyberX 高性能分布式异构计算框架 灵活构建；
