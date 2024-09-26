@@ -1,4 +1,7 @@
 
+2024-09-25 0.1.1:
+ - opt 升级开发编译环境为 VS 2022 17.11.4。
+
 2024-09-10 0.1.0:
  - new 重构客户端 Python 版行情模块，统一使用 CyberX 计算框架，提升行情处理效率，增强行情功能扩展。
  - new 新增 quotex_client_stock_ltp 和 quotex_client_future_ctp 行情接收子级插件模块。

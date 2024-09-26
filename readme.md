@@ -1,7 +1,7 @@
 # QuoteX
-V0.1.0-Beta Build 20240910
+V0.1.1-Beta Build 20240925
 
-最新版本：[C++](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.0)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.0)
+最新版本：[C++](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.1)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.1)
 
 ### 项目概述
 行情服务特性：
@@ -14,7 +14,7 @@ V0.1.0-Beta Build 20240910
 + quotex_center：
   + 行情中心插件。
   + 接收子级行情代理插件推送的行情数据，对其进行加工处理，接受上层应用调用。
-  + 使用示例：test_quotex_center（[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.0/test_quotex_center.py)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.0/test_quotex_center.js)）
+  + 使用示例：test_quotex_center（[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.1/test_quotex_center.py)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.1/test_quotex_center.js)）
 ###
 + quotex_client_stock_ltp：
   + 推送股票行情代理插件。
