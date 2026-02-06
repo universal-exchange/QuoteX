@@ -1,7 +1,7 @@
 # QuoteX
-V0.1.1-Beta Build 20240925
+V0.1.2-Beta Build 20251201
 
-最新版本：[C++](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.1)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.1)
+最新版本：[C++](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.2)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.2)
 
 ### 项目概述
 行情服务特性：
@@ -14,7 +14,7 @@ V0.1.1-Beta Build 20240925
 + quotex_center：
   + 行情中心插件。
   + 接收子级行情代理插件推送的行情数据，对其进行加工处理，接受上层应用调用。
-  + 使用示例：test_quotex_center（[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.1/test_quotex_center.py)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.1/test_quotex_center.js)）
+  + 使用示例：test_quotex_center（[Python](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_py/0.1.2/test_quotex_center.py)、[JavaScript](https://github.com/universal-exchange/quotex/tree/main/exe/windows/bin/quotex_js/0.1.2/test_quotex_center.js)）
 ###
 + quotex_client_stock_ltp：
   + 推送股票行情代理插件。
@@ -72,4 +72,4 @@ npm install cyberx-js
 ### 联系作者
 WeChat：xrd_ustc，~~QQ：277195007~~，~~E-mail：xrd@ustc.edu~~
 
-© 2012-2024 Rendong Xu All Rights Reserved.
+© 2012-2026 Rendong Xu All Rights Reserved.
