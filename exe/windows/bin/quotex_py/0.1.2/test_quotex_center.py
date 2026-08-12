@@ -1,7 +1,7 @@
 
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2024-2026 the DerivX authors
+# Copyright (c) 2024-2024 the DerivX authors
 # All rights reserved.
 #
 # The project sponsor and lead author is Xu Rendong.
